@@ -1,0 +1,10 @@
+*.dcu
+*.exe
+*.res
+*.identcache
+*.local
+*.stat
+*.map
+*.rsm
+build*/
+__history/
